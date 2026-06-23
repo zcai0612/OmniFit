@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="assets/OmniFit-Logo.png" height="30" style="vertical-align: Middle; margin-right: -5px;" />
+  <img src="https://github.com/user-attachments/assets/cbc81f11-5b01-4551-b521-256a5f4e276a" height="30" style="vertical-align: Bottom; margin-right: -5px;" />
   <a href="https://zcai0612.github.io/OmniFit/">OmniFit: Multi-modal 3D Body Fitting via
 Scale-agnostic Dense Landmark Prediction</a>
 </h2>
@@ -27,7 +27,7 @@ Scale-agnostic Dense Landmark Prediction</a>
   TL;DR: A unified, scale-agnostic 3D human body fitting framework for robustly handling full or partial scans (with or without photos) and AIGC characters.
 </div>
 
-<video src="assets/OmniFit.mp4" autoplay loop muted playsinline controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/67153aab-0396-4ca5-8b8c-6b3ff1a9fcd8" autoplay loop muted playsinline controls width="100%"></video>
 
 
 ## 📢 News
