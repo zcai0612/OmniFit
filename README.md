@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="assets/OmniFit-Logo.png" height="28" style="vertical-align: Top; margin-right: 0px;" />
+  <img src="assets/OmniFit-Logo.png" height="30" style="vertical-align: Middle; margin-right: -5px;" />
   <a href="https://zcai0612.github.io/OmniFit/">OmniFit: Multi-modal 3D Body Fitting via
 Scale-agnostic Dense Landmark Prediction</a>
 </h2>
