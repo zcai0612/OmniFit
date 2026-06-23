@@ -1,0 +1,26 @@
+OmniFit Research License
+
+Copyright (c) 2026 OmniFit Authors. All rights reserved.
+
+Permission is hereby granted to use, copy, modify, and distribute this
+software and the accompanying pretrained weights solely for academic,
+non-commercial research purposes.
+
+You may not use this software, the pretrained weights, or derivative works for
+commercial purposes without prior written permission from the copyright
+holders. Commercial purposes include, but are not limited to, use in a product
+or service, use for paid consulting, internal use by a for-profit entity, or
+use to train, improve, or evaluate commercial systems.
+
+Redistributions must retain this license notice and must clearly indicate any
+changes made to the original software.
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement. In no event shall the
+authors or copyright holders be liable for any claim, damages, or other
+liability arising from the use of this software.
+
+This license applies only to the OmniFit code and released OmniFit weights.
+Third-party assets, models, datasets, and dependencies, including SMPL-X, are
+subject to their own licenses and terms of use.

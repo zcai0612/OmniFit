@@ -1,0 +1,16 @@
+numpy
+scipy
+tqdm
+scikit-learn
+trimesh
+open3d
+smplx
+timm
+einops
+termcolor
+matplotlib
+opencv-python
+pymeshlab
+Pillow
+huggingface_hub
+git+https://github.com/NVlabs/nvdiffrast.git
