@@ -46,7 +46,7 @@ Scale-agnostic Dense Landmark Prediction</a>
 ## 💡 Overview
 
 <div align="center">
-  <img src="assets/landmark_predictor.png"/>
+  <img src="https://github.com/user-attachments/assets/69c62830-e3d8-488d-865c-c52a985052c8"/>
 </div>
 
 
