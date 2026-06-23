@@ -4,6 +4,8 @@
 Scale-agnostic Dense Landmark Prediction</a>
 </h2>
 
+<h5 align="center>
+
 [![Home Page](https://img.shields.io/badge/Project-Website-C27185.svg)](https://zcai0612.github.io/OmniFit/)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.21575-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.21575)
 [![Weights](https://img.shields.io/badge/🤗%20HuggingFace-Weights-FFD21E.svg)](https://huggingface.co/Co2y/OmniFit)
@@ -19,9 +21,11 @@ Scale-agnostic Dense Landmark Prediction</a>
 [Baigui Sun](https://scholar.google.cz/citations?user=ZNhTHywAAAAJ&hl=zh-CN),
 [Jian Yang](https://scholar.google.cz/citations?hl=zh-CN&user=6CIDtZQAAAAJ),
 [Zhenyu Zhang&dagger;](https://jessezhang92.github.io/)
+</h5>
 
-TL;DR: A unified, scale-agnostic 3D human body fitting framework for robustly handling full or partial scans (with or without photos) and AIGC characters.
-
+<div align="center">
+  TL;DR: A unified, scale-agnostic 3D human body fitting framework for robustly handling full or partial scans (with or without photos) and AIGC characters.
+</div>
 
 <video src="assets/OmniFit.mp4" autoplay loop muted playsinline controls width="100%"></video>
 
