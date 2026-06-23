@@ -1,10 +1,10 @@
 <h2 align="center">
-  <img src="assets/OmniFit-Logo.png" height="24" style="vertical-align: bottom; margin-right: 0px;" />
+  <img src="assets/OmniFit-Logo.png" height="28" style="vertical-align: Top; margin-right: 0px;" />
   <a href="https://zcai0612.github.io/OmniFit/">OmniFit: Multi-modal 3D Body Fitting via
 Scale-agnostic Dense Landmark Prediction</a>
 </h2>
 
-<h5 align="center>
+<h5 align="center">
 
 [![Home Page](https://img.shields.io/badge/Project-Website-C27185.svg)](https://zcai0612.github.io/OmniFit/)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.21575-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.21575)
