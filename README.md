@@ -232,7 +232,7 @@ If you find OmniFit useful for your research, please cite:
 
 We thank the authors of the following works, whose ideas and open-source implementations form the foundation of this project:
 
-+ [SMPL-X](https://github.com/vchoutas/smplx), [VGGT](https://github.com/facebookresearch/vggt), [MV-Adapter](https://github.com/huanngzh/MV-Adapter), [MAMMA](https://github.com/cuevhv/mamma), [ETCH](https://github.com/boqian-li/ETCH)
++ [SMPL-X](https://github.com/vchoutas/smplx), [VGGT](https://github.com/facebookresearch/vggt), [MV-Adapter](https://github.com/huanngzh/MV-Adapter), [MAMMA](https://github.com/cuevhv/mamma), [ETCH](https://github.com/boqian-li/ETCH), [Motion-X](https://github.com/IDEA-Research/Motion-X), [BEDLAM2](https://bedlam2.is.tuebingen.mpg.de/).
 
 ## 📄 License
 
